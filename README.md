@@ -22,7 +22,7 @@ These instructions will get you a basic requirements to run this project.
 - You will also see any lint errors in the console.
 
 ### Built With
-- [**React Native Expo**](https://docs.expo.io/versions/latest/)
+- [**React Native Expo**](https://reactjs.org/docs/getting-started.html)
 
 
 
